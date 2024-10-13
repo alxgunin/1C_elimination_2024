@@ -1,2 +1,2 @@
-# 1C_elimination_2024
-Repo for algo-task for 1C dep
+# Задача "Пасьянс" для отбора на кафедру 1С
+_Реализация на языке Python_
